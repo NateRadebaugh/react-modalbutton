@@ -1,6 +1,6 @@
 {
   "name": "@nateradebaugh/react-modalbutton",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Modal Button based on bootstrap and reach/reach-ui",
   "authors": [
     "Nate Radebaugh <nate.radebaugh@outlook.com>"
